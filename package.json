@@ -1,3 +1,17 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "portfolio-tracker",
+  "version": "1.0.0",
+  "description": "A portfolio tracking application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
 }
